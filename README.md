@@ -2,8 +2,6 @@
 
 360 Quake空间搜索引擎api调用
 
-
-
 ## Installation
 
 ```bash
@@ -32,4 +30,4 @@ python3 main.py -k xx-xxx-xxx -q query_str
 
 ## 法律免责声明
 
-未经事先双方同意，使用 PoScan 攻击目标是非法的。 PoScan 仅用于安全测试目的
+未经事先双方同意，使用 360Quake 攻击目标是非法的。 360Quake 仅用于安全测试目的
