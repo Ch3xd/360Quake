@@ -20,7 +20,15 @@ pip3 install -r requirements.txt
 python3 main.py -k xx-xxx-xxx -q query_str
 ```
 
-![image-20221215162357487](.\img\1.png)
+![image-20221215162357487](img/1.png)
+
+运行完后会在当前目录下生成三个文件：
+
+`url.txt  存放URL链接`
+
+`domain.txt 存放域名信息`
+
+`ips.txt 存放IP链接`
 
 ## 法律免责声明
 
